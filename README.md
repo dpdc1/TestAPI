@@ -1,5 +1,6 @@
 # TestAPI
 belajar test case API menggunakan katalon
+
 #get information
 1. Request untuk GET dan disimpan pada variable Response
 2. Verivy output yang tersimpan pada variable Response apakah status nya 200 (sukses)
